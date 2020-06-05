@@ -1,0 +1,9 @@
+.button {
+    font-family: cursive;
+    color: black;
+    background-color: beige ;
+}
+
+#content-div {
+    margin: 200px;
+}
